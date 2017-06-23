@@ -26,7 +26,6 @@
     }
   },
   "addons": [
-    "scheduler:standard",
-    "rediscloud:30"
+    "scheduler:standard"
   ]
 }
